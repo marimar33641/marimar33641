@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marimar33641](https://github.com/marimar33641)
 
-- 💬 Ask me about programming, Salesforce, Apex, Python, databases, and more! Ready to share insights and assist with your technical questions**
+- 💬 Ask me about programming, Salesforce, Apex, Python, databases, and more! Ready to share insights and assist with your technical questions
 
 - 📫 How to reach me marimar003@hotmail.com
 
